@@ -9,7 +9,7 @@ Ich entwickle Open-Source rund um **Arduino/ESP32**, **ESPHome**, **Home Assista
 Wenn dir meine Projekte helfen, freue ich mich über einen Kaffee ☕.
 
 <!-- Support section -->
-## Unterstützen
+## Unterstützen?
 <p align="left">
   <!-- Buy Me a Coffee button -->
   <a href="https://www.buymeacoffee.com/franklins59" target="_blank" rel="noopener">
@@ -33,6 +33,7 @@ Wenn dir meine Projekte helfen, freue ich mich über einen Kaffee ☕.
       style="vertical-align: middle;" />
   </a>
 </p>
+
 ## Über mich
 
 - 🔧 Elektronik & Automatisierung, SmartHome, Lasergravur
