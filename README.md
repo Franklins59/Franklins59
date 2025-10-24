@@ -10,12 +10,21 @@ Wenn dir meine Projekte helfen, freue ich mich über einen Kaffee ☕.
 
 <!-- Support section -->
 ## Unterstützen
-
-<a href="https://www.buymeacoffee.com/franklins59" target="_blank" rel="noopener">
+<p align="left">
+  <a href="https://www.buymeacoffee.com/franklins59" target="_blank" rel="noopener">
+    <img 
+      src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=franklins59&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff" 
+      height="32" />
+  </a>
+  <a href="https://paypal.me/franklins59" target="_blank" rel="noopener">
+    <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" height="32" />
+  </a>
+</p>
+<!-- <a href="https://www.buymeacoffee.com/franklins59" target="_blank" rel="noopener">
   <img 
     src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=franklins59&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff" 
   height="30"alt="Buy Me a Coffee - BMAC_USERNAME" />
-</a>
+</a> -->
 
 <!-- Optional: Badge variant -->
 <!--
