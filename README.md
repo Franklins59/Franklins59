@@ -5,7 +5,7 @@ Comments are in English; visible text is in German per user preference.
 
 # Hi, ich bin Franklins59 👋
 
-Ich entwickle Open-Source rund um **Arduino/ESP8266**, **ESPHome**, **Home Assistant**, **Shelly** und **IR-Gateways**  
+Ich entwickle Open-Source rund um **Arduino/ESP32**, **ESPHome**, **Home Assistant**, **Shelly** und **IR-Gateways**  
 Wenn dir meine Projekte helfen, freue ich mich über einen Kaffee ☕.
 
 <!-- Support section -->
@@ -14,7 +14,7 @@ Wenn dir meine Projekte helfen, freue ich mich über einen Kaffee ☕.
 <a href="https://www.buymeacoffee.com/franklins59" target="_blank" rel="noopener">
   <img 
     src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=franklins59&button_colour=FFDD00&font_colour=000000&outline_colour=000000&coffee_colour=ffffff" 
-    alt="Buy Me a Coffee - BMAC_USERNAME" />
+  height="40"alt="Buy Me a Coffee - BMAC_USERNAME" />
 </a>
 
 <!-- Optional: Badge variant -->
@@ -24,7 +24,7 @@ Wenn dir meine Projekte helfen, freue ich mich über einen Kaffee ☕.
 
 ## Über mich
 
-- 🔧 Bastle an Elektronik & Automatisierung
+- 🔧 Elektronik & Automatisierung
 - 🧰 Schwerpunkte: IR-Protokolle, ESPHome-Integrationen, Home Assistant
 - 📦 Ich dokumentiere Projekte so, dass andere sie schnell nachbauen können
 
